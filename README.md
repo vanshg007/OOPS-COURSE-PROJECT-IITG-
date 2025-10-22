@@ -2,8 +2,7 @@
 ### **Assignment 01: Polynomial and Matrix Operations**
 **Name:** Vansh Gandharva  
 **Roll No:** 230102102  
-**Department:** Electronics and Communication Engineering (ECE)  
-**University:** Nirma University  
+**Department:** Electronics and Communication Engineering (ECE)   
 
 ---
 
