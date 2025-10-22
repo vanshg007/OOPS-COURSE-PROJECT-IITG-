@@ -47,6 +47,4 @@ and displays all results in a structured format.
 - Overloaded `[]` operator for easy element access.
 - Handles invalid dimension operations gracefully.
 
----
 
-## 📂 File Structure
